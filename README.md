@@ -35,6 +35,7 @@ Day 1 | Rails DB  |
 Day 1 | React FE  |
 Day 2 | Connect and Test Routes |
 Day 2 | Basic styling |
+Day 2-3 | More detailed styling | 
 Day 3 | Search functionality |
 Day 3 | Deploy | 
 
@@ -53,8 +54,12 @@ Deploy to Github and Heroku | H | 1 hr
 
 Component | Priority   | Estimated Time | Actual Time 
 ----------| ---------- | ---------------| -------------
+Style homepage header | M | 1 hr
+Style homepage section (index and show) | M | 1 hr
+Style navigation | M | .5 hr
 Search fields | M | 1.5 hr
-Portfolio-quality styling | M | 3 hr
+Style for mobile | M | 1.5 hr
+ 
 
 
 
