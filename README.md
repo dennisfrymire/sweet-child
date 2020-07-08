@@ -27,3 +27,13 @@ As a user I want to be able to...
 <img src="/images/IMG_3178.JPG">
 <img src="/images/IMG_3179.JPG">
 
+## Project Schedule
+
+### MVP
+
+Component | Priority | Estimated Time | Actual Time 
+--------------- | ---------------
+
+Rails DB | H | 1hr
+React FE Base Layout | H | 1 hr
+
