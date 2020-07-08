@@ -29,6 +29,16 @@ As a user I want to be able to...
 
 ## Project Schedule
 
+Day | Deliverable | Status 
+--- | ----------- | ------
+Day 1 | Rails DB  |
+Day 1 | React FE  |
+Day 2 | Connect and Test Routes |
+Day 2 | Basic styling |
+Day 3 | Search functionality |
+Day 3 | Deploy | 
+
+
 ### MVP
 
 Component | Priority   | Estimated Time | Actual Time 
@@ -37,6 +47,7 @@ Rails DB | H | .5 hr |
 React Front end | H | .5 hr |
 Connect and test routes | H | .5 hr
 Basic styling | H | 1 hr |
+Deploy to Github and Heroku | H | 1hr
 
 ### PostMVP
 
