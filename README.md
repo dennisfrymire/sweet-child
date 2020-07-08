@@ -34,6 +34,6 @@ As a user I want to be able to...
 Component | Priority   | Estimated Time | Actual Time 
 ----------| ---------- | ---------------| -------------
 
-Rails DB | H | 1hr
-React FE Base Layout | H | 1 hr
+Rails DB | H | 1hr | 
+-------- | - | ----| -----
 
