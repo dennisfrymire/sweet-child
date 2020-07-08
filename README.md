@@ -24,8 +24,8 @@ As a user I want to be able to...
 
 ## Wireframes
 
-<img src="/images/IMG_3178.JPG">
-<img src="/images/IMG_3179.JPG">
+<img src="/images/IMG_3178.JPG" width="150px" height="auto">
+<img src="/images/IMG_3179.JPG" width="150px" height="auto">
 
 ## Project Schedule
 
@@ -47,7 +47,7 @@ Rails DB | H | .5 hr |
 React Front end | H | .5 hr |
 Connect and test routes | H | .5 hr
 Basic styling | H | 1 hr |
-Deploy to Github and Heroku | H | 1hr
+Deploy to Github and Heroku | H | 1 hr
 
 ### PostMVP
 
