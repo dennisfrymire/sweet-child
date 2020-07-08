@@ -35,5 +35,5 @@ Component | Priority   | Estimated Time | Actual Time
 ----------| ---------- | ---------------| -------------
 
 Rails DB | H | 1hr | 
--------- | - | ----| -----
+
 
