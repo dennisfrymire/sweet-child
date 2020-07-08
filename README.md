@@ -16,8 +16,14 @@ As a user I want to be able to...
 
 ## Stretch goals
 
+- Make information searchable by certain criteria - song title, artist, etc.
+
 - Portfolio-quality styling, with responsive CSS design.
 
 - Have an embedded YouTube video with each entry that features a performance or example of the song.
 
+## Wireframes
+
+![Home page] (/images/IMG_3178.JPG)
+![Show page] (/images/IMG_3179.JPG)
 
