@@ -1,6 +1,6 @@
 # Sweet Child of Mine
 
-A CRUD app that allows parents (or folks caring for young children) to find songs that aren’t lullabies or children’s songs, but are suitable for bedtime or for soothing.
+A CRUD app that allows parents (or folks caring for young children) to find and add songs that aren’t lullabies or children’s songs, but are suitable for bedtime or for soothing.
 
 ## User Stories
 
