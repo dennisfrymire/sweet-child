@@ -24,6 +24,6 @@ As a user I want to be able to...
 
 ## Wireframes
 
-![Home page] (/images/IMG_3178.JPG)
-![Show page] (/images/IMG_3179.JPG)
+<img src="/images/IMG_3178.JPG">
+<img src="/images/IMG_3179.JPG">
 
