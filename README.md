@@ -33,6 +33,17 @@ As a user I want to be able to...
 
 Component | Priority   | Estimated Time | Actual Time 
 ----------| ---------- | ---------------| -------------
-Rails DB | H | 1hr | 
+Rails DB | H | .5 hr |
+React Front end | H | .5 hr |
+Connect and test routes | H | .5 hr
+Basic styling | H | 1 hr |
+
+### PostMVP
+
+Component | Priority   | Estimated Time | Actual Time 
+----------| ---------- | ---------------| -------------
+Search fields | M | 1.5 hr
+Portfolio-quality styling | M | 3 hr
+
 
 
