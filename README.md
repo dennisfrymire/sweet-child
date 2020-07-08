@@ -24,8 +24,8 @@ As a user I want to be able to...
 
 ## Wireframes
 
-<img src="/images/IMG_3178.JPG" width="150px" height="auto">
-<img src="/images/IMG_3179.JPG" width="150px" height="auto">
+<img src="/images/IMG_3178.JPG" width="300px" height="auto">
+<img src="/images/IMG_3179.JPG" width="300px" height="auto">
 
 ## Project Schedule
 
