@@ -1,0 +1,2 @@
+class Lullaby < ApplicationRecord
+end
