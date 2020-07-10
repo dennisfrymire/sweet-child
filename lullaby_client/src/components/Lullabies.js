@@ -45,9 +45,10 @@ class Lullabies extends Component {
                 return(
                     <div key = {lullaby.id} className = "card">
                         <p>{lullaby.title}</p>
+                        <p>{lullaby.artist}</p>
                         <img src={lullaby.image}></img>
                         <p>{lullaby.lyrics}</p>
-                        <p>{lullaby.artist}</p>
+                        
                     </div>
                 )
             })}

@@ -70,6 +70,37 @@ class App extends Component {
       <div className="container">
       <Lullabies />
       </div>
+      <nav>
+            <h4>Add New Song </h4>
+            <form onSubmit={this.handleSubmit}>
+  <label htmlFor="title">Song</label>
+  <input
+    type="text"
+    id="title" value={this.state.formInputs.title}
+    onChange={this.handleChange}
+  />
+  <label htmlFor="artist">Artist</label>
+  <input
+    type="text"
+    id="artist" value={this.state.formInputs.artist}
+    onChange={this.handleChange}
+  />
+  <label htmlFor="lyrics">Lyrics</label>
+  <input
+    type="text"
+    id="lyrics" value={this.state.formInputs.lyrics}
+    onChange={this.handleChange}
+  />
+  <label htmlFor="image">Album/Song Image</label>
+   <input
+    type="text"
+    id="image" value={this.state.formInputs.image}
+    onChange={this.handleChange}
+  />
+  <input type="submit" className="submit" />
+</form>
+
+          </nav>
       
     </div>
   );
